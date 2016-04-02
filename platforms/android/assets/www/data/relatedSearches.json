@@ -1,0 +1,31 @@
+[
+	{"main": [
+		{"header" : "Show me my ID card." , "content":"View your Health Care or Dental card","lines":"1"},
+		{"header" : "What is my deductible?" , "content":"View your latest deductible","lines":"1"},
+		{"header" : "Has my most recent claim been processed?" , "content":"View your latest claim","lines":"2"},
+		{"header" : "Did my payment go through?" , "content":"View your recent payments","lines":"1"},
+		{"header" : "Find Urgent Care" , "content":"Find Urgent Care locations near you","lines":"1" }
+	]},
+	{"IDcard" : [
+		{"header" : "Dental ID card" , "content":"View your ID card for your Dental plan","lines":"1"}
+	]},
+	{"deductible" : [
+		{"header" : "Learn more about deductibles" , "content":"View the definition of a deductible","lines":"1"},
+		{"header" : "Recent claims" , "content":"View your recently submitted claims","lines":"1" }
+	]},
+	{"claim" : [
+		{"header" : "Benefit Status" , "content":"View how much you've paid towards your deductible","lines":"1" }
+	]},
+	{"payment" : [
+		{"header" : "View Dental Bill" , "content":"View your Dental premium","lines":"1" }
+	]},
+	{"urgentCare" : [
+	]},
+	{"error" : [
+		{"header" : "Show me my ID card." , "content":"View your Health Care or Dental card","lines":"1"},
+		{"header" : "What is my deductible?" , "content":"View your latest deductible","lines":"1"},
+		{"header" : "Has my most recent claim been processed?" , "content":"View your latest claim","lines":"2"},
+		{"header" : "Did my payment go through?" , "content":"View your recent payments","lines":"1"},
+		{"header" : "Find Urgent Care" , "content":"Find Urgent Care locations near you","lines":"1" }
+	]}
+]

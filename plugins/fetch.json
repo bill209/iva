@@ -1,0 +1,36 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.phonegap.plugins.speech": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/poiuytrez/SpeechRecognizer",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-network-information": {
+        "source": {
+            "type": "git",
+            "url": "https://git-wip-us.apache.org/repos/asf/cordova-plugin-network-information.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.wordsbaking.cordova.tts": {
+        "source": {
+            "type": "registry",
+            "id": "com.wordsbaking.cordova.tts"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

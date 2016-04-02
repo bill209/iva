@@ -1,0 +1,7 @@
+	<div id='sb' ng-class="{offline: !online2}">
+<!-- 		<img src='images/microphone.svg' ng-click="speechToText();"/>-->
+		<div id='microphone'  ng-click="speechToText();" ng-show="online2">&nbsp;</div>
+		<input id='textSearch' type='text'ng-model="txt.input" ng-show="online2">
+		<div id='ask' ng-click="textToText()" ng-show="online2">&nbsp;</div>
+<!-- 		<button type='input'>search it</button> -->
+	</div>

@@ -1,0 +1,15 @@
+[
+	{"keyword" : "idcard", "tile" : "IDcard" , "outmessage": "Sure, here's some information on your ID card." },
+	{"keyword" : "id card", "tile" : "IDcard" , "outmessage": "Sure, here's some information on your ID card." },
+	{"keyword" : "id card", "tile" : "IDcard" , "outmessage": "Sure, here's some information on your ID card." },
+	{"keyword" : "car", "tile" : "IDcard" , "outmessage": "Sure, here's some information on your ID card." },
+	{"keyword" : "card", "tile" : "IDcard" , "outmessage": "Sure, here's some information on your ID card." },
+	{"keyword" : "deductible", "tile" : "deductible", "outmessage": "Ok, here's what I found on your deductible" },
+	{"keyword" : "deductable", "tile" : "deductible", "outmessage": "Ok, here's what I found on your deductible" },
+	{"keyword" : "claim" , "tile" : "claim", "outmessage": "Michael, here is what I have on your last claim." },
+	{"keyword" : "payment" , "tile" : "payment", "outmessage": "You made a payment of August 5th. Your next payment is scheduled for September 5th." },
+	{"keyword" : "urgent" , "tile" : "urgentCare", "outmessage": "There's an urgent care just down the road." },
+	{"keyword" : "error" , "tile" : "error", "outmessage": "Sorry, but I can't find what you are looking for." },
+	{"keyword" : "yabba" , "tile" : "ff", "outmessage": "yaba daba doo" },
+	{"keyword" : "flinstone" , "tile" : "ff", "outmessage": "yaba daba doo" }
+]

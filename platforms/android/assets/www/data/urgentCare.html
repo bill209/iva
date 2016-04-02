@@ -1,0 +1,23 @@
+<div id='main' >
+	<div id='header'>
+		<h3>Personal Assistant</h3>
+	</div>
+	<div id='searchBox'>
+		<img src='images/searchBox.png'/>
+	</div>
+	<div id='content'>
+		<img src='images/urgentCare.png'/>
+	</div>
+	<div id='tileContainer'>
+		<h3>Related Searches</h3>
+		<div class='tile' ng-repeat="tile in urgentCareRelatedSearches">
+				<div class='tileContent'>
+					<h3>{{tile.header}}</h3>
+					<p>{{tile.content}}.</p>
+				</div>
+				<div class='tileArrow'>
+					>>
+				</div>
+		</div>
+	</div>
+</div>
